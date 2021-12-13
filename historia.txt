@@ -5,3 +5,7 @@ Mido alrededor de 1.65 cm, la verdad es que no soy muy alto
 Hoy hablaremos de su vida y obra maestra
 
 Mañana nos enfocaremos en su vida laboral
+
+Estas nuevas lineas de codigo van a ser borradas ya que 
+unicamente estoy practicando y reforzando lo aprendido sobre 
+el comando checkout
